@@ -1,8 +1,6 @@
-**Titanic Survival Prediction**
+** Prediction using Decision Tree and Grid Search CV**
 
-A Python project (`titanic_decision_tree.ipynb`) that builds and optimizes a Decision Tree classifier to predict Titanic passenger survival based on demographic and ticket data.
-
-**Project Workflow**
+** Workflow**
 
 * **Preprocessing:** Cleans missing data and encodes categorical variables (gender, embarkation port).
 * **Modeling:** Trains a baseline Scikit-Learn `DecisionTreeClassifier`.
